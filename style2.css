@@ -599,3 +599,14 @@
     }
 
 }
+.cv-button {
+    display: inline-block;
+    padding: 5px 6px;
+    background-color: #007bff;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.cv-button:hover {
+    opacity: 0.85;
+}
